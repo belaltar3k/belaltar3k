@@ -17,7 +17,7 @@
 - **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)  
   _June 2025 – Present_  
 
-- **Network Security Trainee** @ National Telecommunication Institute (NTI)  
+- **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://drive.google.com/file/d/1bA3GWxX7prH7qK8_yg2DbSszgDss75F9/view?usp=sharing)
   - Designed and implemented a secure corporate network in Cisco Packet Tracer (ACLs, VLANs, firewalls).  
   - Practiced incident response and security monitoring.  
   _Aug 2025_  
@@ -48,10 +48,10 @@
 ---
 
 ## 📜 Certificates
-- Cisco Networking Academy — *Introduction to Cybersecurity* (2025)  
-- Google Coursera — *Foundations of Cybersecurity* (2025)  
-- IBM Coursera — *Generative AI for Cybersecurity Professionals* (2025)  
-- Sprints x Microsoft — *Cybersecurity Summer Camp* (2025)  
+- Cisco Networking Academy — [*Introduction to Cybersecurity*](https://www.credly.com/badges/717d2ba9-88ac-4871-8e4c-762f1fe63333/linked_in_profile) (2025)  
+- Google Coursera — [*Foundations of Cybersecurity*](https://www.coursera.org/account/accomplishments/verify/9D9HX28Y7XIS) (2025)  
+- IBM Coursera — [*Generative AI for Cybersecurity Professionals*](https://www.credly.com/badges/2474b539-ac62-4f4e-a98d-6b51313d83bf/linked_in_profile) (2025)  
+- Sprints x Microsoft — [*Cybersecurity Summer Camp*](https://sprints.ai/en-eg/journeys/learning/ID%20-%20SPR%20-%20474AAA/view-certificate-serial) (2025)  
 
 ---
 
