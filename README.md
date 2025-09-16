@@ -32,6 +32,17 @@
 
 ---
 
+## 📜 Certificates
+- Cisco Networking Academy — [*Networking Devices and Initial Configuration*](https://www.credly.com/badges/acdfee02-329d-42fb-af74-5ed6e60b9364/linked_in_profile) (2025)  
+- Cisco Networking Academy — [*Networking Basics*](https://www.credly.com/badges/e1734a94-8f6c-4efa-8c14-0e2318c3c9d2/linked_in_profile) (2025)  
+- Cisco Networking Academy — [*Introduction to Cybersecurity*](https://www.credly.com/badges/717d2ba9-88ac-4871-8e4c-762f1fe63333/linked_in_profile) (2025)  
+- Google Coursera — [*Managing Security Risks*](https://www.coursera.org/account/accomplishments/records/JARRCVK4WUKU) (2025)  
+- Google Coursera — [*Foundations of Cybersecurity*](https://www.coursera.org/account/accomplishments/verify/9D9HX28Y7XIS) (2025)  
+- IBM Coursera — [*Generative AI for Cybersecurity Professionals*](https://www.credly.com/badges/2474b539-ac62-4f4e-a98d-6b51313d83bf/linked_in_profile) (2025)  
+- Sprints x Microsoft — [*Cybersecurity Summer Camp*](https://sprints.ai/en-eg/journeys/learning/ID%20-%20SPR%20-%20474AAA/view-certificate-serial) (2025)  
+
+---
+
 ## 📂 Featured Projects
 - [🌦 Smart Weather Station](https://github.com/belaltar3k/IOT_ML_Weather_Prediction)  
   Real-time ESP32-based IoT station with Python + MQTT; regression models for forecasting.  
@@ -44,14 +55,6 @@
 
 - [🖥 Non-Preemptive OS Simulation](https://github.com/belaltar3k/non_preemptive_os)  
   OS kernel simulation in C with a web interface for task scheduling visualization.  
-
----
-
-## 📜 Certificates
-- Cisco Networking Academy — [*Introduction to Cybersecurity*](https://www.credly.com/badges/717d2ba9-88ac-4871-8e4c-762f1fe63333/linked_in_profile) (2025)  
-- Google Coursera — [*Foundations of Cybersecurity*](https://www.coursera.org/account/accomplishments/verify/9D9HX28Y7XIS) (2025)  
-- IBM Coursera — [*Generative AI for Cybersecurity Professionals*](https://www.credly.com/badges/2474b539-ac62-4f4e-a98d-6b51313d83bf/linked_in_profile) (2025)  
-- Sprints x Microsoft — [*Cybersecurity Summer Camp*](https://sprints.ai/en-eg/journeys/learning/ID%20-%20SPR%20-%20474AAA/view-certificate-serial) (2025)  
 
 ---
 
