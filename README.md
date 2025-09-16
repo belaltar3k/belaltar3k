@@ -2,7 +2,7 @@
 **Information Security Analyst | Computer & Data Science Student**
 
 📍 Alexandria, Egypt  
-📧 belaltar3k@gmail.com | [LinkedIn](https://linkedin.com/in/belaltar3k) | [GitHub](https://github.com/belaltar3k)  
+📧 belaltar3k@gmail.com | [LinkedIn](https://linkedin.com/in/belaltar3k) | [GitHub](https://github.com/belaltar3k) | [Portfolio](https://belaltar3k.github.io)  
 
 ---
 
