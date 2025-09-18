@@ -15,7 +15,6 @@
 
 ## 💼 Experience
 - **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)
-
     _June 2025 – Present_
 
 - **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://drive.google.com/file/d/1bA3GWxX7prH7qK8_yg2DbSszgDss75F9/view?usp=sharing)
