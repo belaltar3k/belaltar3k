@@ -67,4 +67,4 @@
 
 ---
 
-⭐️ Always open to collaboration and new opportunities in **Cybersecurity** and **Data Science**.
+⭐️ Always open to collaboration and new opportunities in **Cybersecurity**.
