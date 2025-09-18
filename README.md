@@ -16,15 +16,15 @@
 ## 💼 Experience
 - **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)  
   _June 2025 – Present_
-  
-- **IT Trainee** @ Western Desert Operating Petroleum Co. (WEPCO)  
-  - Exposure to enterprise IT, SAP ERP, SQL Server, and system troubleshooting.  
-  _July – Aug 2025_  
 
 - **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://drive.google.com/file/d/1bA3GWxX7prH7qK8_yg2DbSszgDss75F9/view?usp=sharing)
   - Designed and implemented a secure corporate network in Cisco Packet Tracer (ACLs, VLANs, firewalls).  
   - Practiced incident response and security monitoring.  
-  _Aug 2025_  
+  _Aug 2025_
+
+- **IT Trainee** @ Western Desert Operating Petroleum Co. (WEPCO)  
+  - Exposure to enterprise IT, SAP ERP, SQL Server, and system troubleshooting.  
+  _July – Aug 2025_  
 
 - **IoT Training** @ IEEE Summer Training  
   - Real-time data, hardware prototyping, MQTT, and cloud IoT platforms.  
