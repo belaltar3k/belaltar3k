@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- BSc in Computer and Data Science, Alexandria University (GPA: 3.34)  
+- BSc in Computer and Data Science, Alexandria University (GPA: 3.339)  
 - Aspiring **Information Security Analyst** with hands-on experience in network security, IoT, and data science projects.  
 - Passionate about cybersecurity, data-driven problem solving, and building secure systems.  
 
