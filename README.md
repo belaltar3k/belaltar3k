@@ -1,5 +1,5 @@
 # Belal ElDakkak 👋  
-**Information Security Analyst | Computer & Data Science Student**
+**Information Security Analyst | Computer & Data Science Undergraduate**
 
 📍 Alexandria, Egypt  
 📧 belaltar3k@gmail.com | [LinkedIn](https://linkedin.com/in/belaltar3k) | [Portfolio](https://belaltar3k.github.io)  
