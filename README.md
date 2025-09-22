@@ -33,6 +33,8 @@
 ---
 
 ## 📜 Certificates
+- Cisco Networking Academy — [*Cyber Threat Management*](https://www.credly.com/badges/1d884993-5a3d-4690-abe3-7822606b2c78/linked_in_profile) (2025)
+- Cisco Networking Academy — [*Network Defense*](https://www.credly.com/badges/83e91f2e-ed71-46ce-bf10-b05401c642de/linked_in_profile) (2025)  
 - Cisco Networking Academy — [*Endpoint Security*](https://www.credly.com/badges/c132d7c7-1eab-48a4-990d-de5e8c21aebb/linked_in_profile) (2025)  
 - Cisco Networking Academy — [*Networking Devices and Initial Configuration*](https://www.credly.com/badges/acdfee02-329d-42fb-af74-5ed6e60b9364/linked_in_profile) (2025)  
 - Cisco Networking Academy — [*Networking Basics*](https://www.credly.com/badges/e1734a94-8f6c-4efa-8c14-0e2318c3c9d2/linked_in_profile) (2025)  
