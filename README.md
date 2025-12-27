@@ -17,12 +17,12 @@
 - **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)
   _June 2025 - Present_
 
-- **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://drive.google.com/file/d/1bA3GWxX7prH7qK8_yg2DbSszgDss75F9/view?usp=sharing)
+- **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://belaltar3k.github.io/files/certificates/NTI%20-%20Network%20Security%20CERTI.pdf)
   - Designed and implemented a secure corporate network in Cisco Packet Tracer (ACLs, VLANs, firewalls).  
   - Practiced incident response and security monitoring.  
   _Aug 2025_
 
-- **IT Trainee** @ Western Desert Operating Petroleum Co. (WEPCO)  
+- **IT Trainee** @ Western Desert Operating Petroleum Co. (WEPCO)  -  [Certificate](https://belaltar3k.github.io/files/certificates/WEPCO%20-%20Summer%20Internship%20CERTI.pdf)
   - Exposure to enterprise IT, SAP ERP, SQL Server, and system troubleshooting.  
   _July – Aug 2025_  
 
