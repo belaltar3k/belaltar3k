@@ -14,7 +14,7 @@
 ---
 
 ## 💼 Experience
-- **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)
+- **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)  -  [Certificate](https://belaltar3k.github.io/files/certificates/DEPI%20-%20Information%20Security%20Analyst%20CERTI.pdf)
   
     _June - Nov 2025_
 
