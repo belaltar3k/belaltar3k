@@ -67,13 +67,25 @@
 
 ## 🛠 Skills
 
-**Cybersecurity:** SOC, SIEM, Incident Response, Threat Detection, Vulnerability Assessment, Network Security
-**Networking:** CCNA, TCP/IP Model, OSI Model, Routing & Switching, VLANs, ACLs, Firewalls, VPNs, DNS, DHCP, NAT, Cisco Packet Tracer
+**Cybersecurity:**  
+SOC, SIEM, Incident Response, Threat Detection, Vulnerability Assessment, Network Security
 
-**Artificial Intelligence & Machine Learning:** Computer Vision, Deep Learning, Weakly Supervised Learning, PyTorch, Scikit-learn, Regression, Classification, Model Evaluation
-**Data Science:** Data Collection, Web Scraping, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, Predictive Modeling
-**IoT & Embedded Systems:** ESP32, MQTT, Mosquitto, Sensor Integration, Real-Time Data Processing
-**Tools & Programming Languages:** Git, GitHub, Linux, Docker, SQL Server, SAP ERP, Jupyter Notebook, VS Code, Python, C/C++, Java, JavaScript, TypeScript, SQL, Bash, R
-**Languages:** Arabic (Native), English (C2)
+**Networking:**  
+CCNA, TCP/IP Model, OSI Model, Routing & Switching, VLANs, ACLs, Firewalls, VPNs, DNS, DHCP, NAT, Cisco Packet Tracer
+
+**Artificial Intelligence & Machine Learning:**  
+Computer Vision, Deep Learning, Weakly Supervised Learning, PyTorch, Scikit-learn, Regression, Classification, Model Evaluation
+
+**Data Science:**  
+Data Collection, Web Scraping, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, Predictive Modeling
+
+**IoT & Embedded Systems:**  
+ESP32, MQTT, Mosquitto, Sensor Integration, Real-Time Data Processing
+
+**Tools & Programming Languages:**  
+Git, GitHub, Linux, Docker, SQL Server, SAP ERP, Jupyter Notebook, VS Code, Python, C/C++, Java, JavaScript, TypeScript, SQL, Bash, R
+
+**Languages:**  
+Arabic (Native), English (C2)
 
 ---
