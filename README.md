@@ -18,7 +18,7 @@
   - Completed intensive training in Security Operations (SOC), incident response, threat intelligence, and vulnerability management.  
   - Performed hands-on labs in network security, cloud security, SIEM fundamentals, and risk assessment.
   - Worked on cybersecurity projects applying industry best practices and defensive security techniques.
-    _June - Nov 2025_
+  _June - Nov 2025_
 
 - **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://belaltar3k.github.io/files/certificates/NTI%20-%20Network%20Security%20CERTI.pdf)
   - Designed and implemented a secure corporate network in Cisco Packet Tracer (ACLs, VLANs, firewalls).  
@@ -60,7 +60,7 @@
 - [BuggedCart -- Web Application Security Assessment & Secure SDLC](https://github.com/belaltar3k/buggedcart)  
   Built and assessed a deliberately vulnerable Flask web application to demonstrate a complete Secure SDLC workflow, including threat modeling, OWASP ZAP scanning, manual vulnerability verification, secure remediation, and re-testing.  
 
-- [Enterprise Network Design & Security](https://belaltar3k.github.io/cn_project)  
+- [Enterprise Network Design & Security](https://github.com/belaltar3k/cn_project)  
   Designed and configured a multi-department enterprise network connecting five academic departments and two server segments using subnetting, multiple LAN topologies, dynamic routing, NAT, and extended ACLs.  
 
 ---
