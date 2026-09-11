@@ -1,4 +1,4 @@
-# Belal ElDakkak 👋  
+# Belal ElDakkak
 **Information Security Analyst | Computer & Data Science Undergraduate**
 
 📍 Alexandria, Egypt  
