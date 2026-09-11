@@ -17,8 +17,8 @@
 - **Information Security Analyst Trainee** @ Digital Egypt Pioneers Initiative (DEPI)  -  [Certificate](https://belaltar3k.github.io/files/certificates/DEPI%20-%20Information%20Security%20Analyst%20CERTI.pdf)
   - Completed intensive training in Security Operations (SOC), incident response, threat intelligence, and vulnerability management.  
   - Performed hands-on labs in network security, cloud security, SIEM fundamentals, and risk assessment.
-  - Worked on cybersecurity projects applying industry best practices and defensive security techniques.
-  _June - Nov 2025_
+  - Worked on cybersecurity projects applying industry best practices and defensive security techniques.  
+  _June – Dec 2025_  
 
 - **Network Security Trainee** @ National Telecommunication Institute (NTI)  -  [Certificate](https://belaltar3k.github.io/files/certificates/NTI%20-%20Network%20Security%20CERTI.pdf)
   - Designed and implemented a secure corporate network in Cisco Packet Tracer (ACLs, VLANs, firewalls).  
