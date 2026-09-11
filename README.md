@@ -1,5 +1,5 @@
 # Belal ElDakkak
-**Information Security Analyst | Computer & Data Science Undergraduate**
+**Information Security Analyst | Computer & Data Science Graduate**
 
 📍 Alexandria, Egypt  
 📧 belaltar3k@gmail.com | [LinkedIn](https://linkedin.com/in/belaltar3k) | [Portfolio](https://belaltar3k.github.io)  
@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 About Me
-- BSc in Computer and Data Science, Alexandria University (GPA: 3.339)  
+- BSc in Computer and Data Science, Alexandria University (GPA: 3.344)  
 - Aspiring **Information Security Analyst** with hands-on experience in network security, IoT, and data science projects.  
 - Passionate about cybersecurity, data-driven problem solving, and building secure systems.  
 
@@ -52,26 +52,25 @@
 ---
 
 ## 📂 Featured Projects
-- [🌦 Smart Weather Station](https://github.com/belaltar3k/IOT_ML_Weather_Prediction)  
-  Real-time ESP32-based IoT station with Python + MQTT; regression models for forecasting.  
+- [OmniSight -- Multimodal AI Surveillance Ecosystem](https://github.com/belaltar3k/omnisight)  
+  AI-powered surveillance platform for real-time incident detection from CCTV streams using computer vision and multimodal AI. Built CrimeTransformer for temporal anomaly detection and YOLOv11x for weapon detection, with a distributed microservices backend.
 
-- [✈️ British Airways Recommendation & Sentiment Analysis](https://github.com/belaltar3k/British_Airlines)  
-  Scraped reviews, performed EDA, trained ML classifiers, and built a web app for sentiment visualization.  
+- [BuggedCart -- Web Application Security Assessment & Secure SDLC](https://github.com/belaltar3k/buggedcart)  
+  Built and assessed a deliberately vulnerable Flask web application to demonstrate a complete Secure SDLC workflow, including threat modeling, OWASP ZAP scanning, manual vulnerability verification, secure remediation, and re-testing.  
 
-- [📦 Intelligent Data Compression Web App](https://github.com/belaltar3k/SqueezeBox)  
-  Web app for intelligent compression (text, video, image) using multiple algorithms + Flask + FFmpeg.  
-
-- [🖥 Non-Preemptive OS Simulation](https://github.com/belaltar3k/non_preemptive_os)  
-  OS kernel simulation in C with a web interface for task scheduling visualization.  
+- [Enterprise Network Design & Security](https://belaltar3k.github.io/cn_project)  
+  Designed and configured a multi-department enterprise network connecting five academic departments and two server segments using subnetting, multiple LAN topologies, dynamic routing, NAT, and extended ACLs.  
 
 ---
 
 ## 🛠 Skills
-**Coding:** C++, Python, Java, R, LaTeX  
-**Cybersecurity:** CCNA, Network Security, SIEM, Cloud Security, Operating Systems  
-**Data Science:** Data Collection, Cleaning, EDA, Regression, Visualization  
-**Math:** Probability, Statistics, Regression, Stochastic Processes  
+
+**Cybersecurity:** SOC, SIEM, Incident Response, Threat Detection, Vulnerability Assessment, Network Security
+**Networking:** CCNA, TCP/IP Model, OSI Model, Routing & Switching, VLANs, ACLs, Firewalls, VPNs, DNS, DHCP, NAT, Cisco Packet Tracer
+**Artificial Intelligence & Machine Learning:** Computer Vision, Deep Learning, Weakly Supervised Learning, PyTorch, Scikit-learn, Regression, Classification, Model Evaluation
+**Data Science:** Data Collection, Web Scraping, Data Cleaning, Exploratory Data Analysis (EDA), Data Visualization, Statistical Analysis, Predictive Modeling
+**IoT & Embedded Systems:** ESP32, MQTT, Mosquitto, Sensor Integration, Real-Time Data Processing
+**Tools & Programming Languages:** Git, GitHub, Linux, Docker, SQL Server, SAP ERP, Jupyter Notebook, VS Code, Python, C/C++, Java, JavaScript, TypeScript, SQL, Bash, R
+**Languages:** Arabic (Native), English (C2)
 
 ---
-
-⭐️ Always open to collaboration and new opportunities in **Cybersecurity**.
